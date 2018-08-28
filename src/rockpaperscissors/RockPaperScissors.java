@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author student
+ * @author Oksana Miller
  */
 public class RockPaperScissors {
 
