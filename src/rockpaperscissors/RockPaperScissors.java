@@ -11,7 +11,11 @@ import javax.swing.JOptionPane;
 /**
  *
  * @author Oksana Miller
- */
+ * checking for updates 
+ * kxdfnkdljkdljdkjdjf
+ * dklfmkdmfkdmfdkmf
+ * dlkmfkdsmfkdsmf
+ */ 
 public class RockPaperScissors {
 
     /**
